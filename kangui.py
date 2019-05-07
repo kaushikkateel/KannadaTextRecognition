@@ -1,3 +1,7 @@
+
+#  Created by Kaushik Kateel on 4/05/19.
+#  Copyright © 2019 Kaushik Kateel. All rights reserved.
+
 import os
 import tkinter as tk
 from PIL import Image, ImageTk
