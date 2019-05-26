@@ -1,8 +1,10 @@
 ## KannadaTextRecognition
+```
 GUI based Kannada text recognition using python.
+```
 
-##USAGE
-'''
+## Usage
+```
   Install tessaract with kan.traineddata.
   
   Add a new system variable TESSDATA_PREFIX with value that locates tessdata.
@@ -11,4 +13,4 @@ GUI based Kannada text recognition using python.
   
   You can find the output.txt in your Users folder.
   
- '''
+ ```
